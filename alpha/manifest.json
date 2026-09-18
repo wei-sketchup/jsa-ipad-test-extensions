@@ -1,0 +1,10 @@
+{
+  "id": "com.example.jsatest.alpha",
+  "name": "Alpha Test",
+  "description": "First test extension in a multi-extension repo",
+  "version": "1.0.0",
+  "creator": "QA",
+  "window": { "type": "floating", "width": 360, "height": 260 },
+  "commands": { "open": { "title": "Open Alpha" } },
+  "menuItems": [ { "type": "item", "commandId": "open" } ]
+}

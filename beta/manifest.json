@@ -1,0 +1,10 @@
+{
+  "id": "com.example.jsatest.beta",
+  "name": "Beta Test",
+  "description": "Second test extension in the same repo",
+  "version": "1.0.0",
+  "creator": "QA",
+  "window": { "type": "floating", "width": 360, "height": 260 },
+  "commands": { "open": { "title": "Open Beta" } },
+  "menuItems": [ { "type": "item", "commandId": "open" } ]
+}
